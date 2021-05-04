@@ -21,7 +21,7 @@ export default function LogIn(){
 
                 <TouchableOpacity style={styles.button}>
                     <Text style={styles.textButton}>
-                        Entrar
+                        Entrar!
                     </Text>
                 </TouchableOpacity>
             </View>
